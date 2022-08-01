@@ -29,7 +29,6 @@ enableEmoji = true
     
 [params]
   orgName = "Florian Pfisterer"
-  orgLocal = "Germany"
   description = "Personal Website of Florian Pfisterer."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
