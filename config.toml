@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Florian Pfisterer"
   orgLocal = "Germany"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Personal Website of Florian Pfisterer."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -43,12 +43,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "pfistfl"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -70,7 +70,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -119,11 +119,11 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  # [[menu.header]]
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
+  # weight = 2
   [[menu.header]]
     name = "Research"
     title = "Research"
@@ -132,8 +132,13 @@ enableEmoji = true
   [[menu.header]]
     name = "Software"
     title = "Software"
-    url = "/elements/"
+    url = "/software/"
     weight = 3
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 4
 
   # Configure footer  
   [[menu.footer]]

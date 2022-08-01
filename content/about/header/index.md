@@ -17,8 +17,18 @@ Prior to starting my PhD I completed a B.Sc. as well as a M.Sc. in Statistics at
 Throughout my studies I worked part time at several companies such as [Telefónica Germany](https://www.telefonica.de/home-corporate-en.html) where I worked on automated quality control for data bases, risk scoring and text analytics. 
 During my master's thesis at the [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) I worked on a method for anomaly detection in time-series data. Before finishing my degree, I interned at [Telefónica Alpha](https://www.linkedin.com/company/telefonica-innovacion-alpha/) in Barcelona working on a moonshot project related to mental health and personal wellbeing. During my PhD I interned with [Roche Pharma](https://www.roche.ch/en/pharma.htm) in personalised healthcare working on *domain generalization* for clinical survival models. 
 
-During my PhD i furthermore freelanced in several capacities, e.g. holding programming courses and machine learning / deep learning courses at several **DAX** companies but also applied machine learning/computer vision projects.
+During my PhD I furthermore freelanced in several capacities, e.g. holding programming courses and machine learning / deep learning courses at several **DAX** companies but also applied machine learning/computer vision projects.
 
 ### Teaching 
 
 I am currently teaching the [Innovation Lab Big Data Science](https://innolab.ifi.lmu.de/) where I supervise student groups on machine learning  and data science software development projects provided by companies, NGO's and research institutions.
+
+### Curriculum Vitae
+
+An up-to-date version of my CV can be downloaded 
+<a href="cv_pfisterer.pdf" download>here</a>.
+
+
+### Activities
+
+* I regularly review for various journals and conferences such as Springer Machine Learning, UAI, NeurIPS and the AutoML conference.
