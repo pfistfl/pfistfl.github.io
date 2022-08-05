@@ -15,7 +15,7 @@ I have written out a few areas I'd like to conduct research on in the future bel
 * Causality- & Fairness-aware AutoML
 * Neural-Network based AutoML systems for tabular data.
 * Integrating AutoML and Causality
-* Better and more realistic benchmarks for asynchrnous & noisy HPO/NAS.
+* Better and more realistic benchmarks for asynchronous & noisy HPO/NAS.
 
 
 # Previous Work
@@ -31,8 +31,7 @@ This website only shows a selected subset of my work, please refer to my [google
 **Abstract:** My interests in AutoML are mainly in meta-learning and hyperparameter optimization (HPO). The goal there is to improve existing HPO optimizers or to figure out if (and how) we can use results from previous experiments to jumpstart optimization on a new dataset. I am similarly interested in developing AutoML beyond its current scope, e.g. by extending AutoML systems towards optimizing multiple criteria such as *fairness* or *interpretability*.
 
 **Selected Publication(s):**
-- **F. Pfisterer\***, L. Schneider*, J. Moosbauer, M. Binder, and B. Bischl. YAHPO Gym - Design Criteria and a new Multifidelity Benchmark for Hyperparameter Optimiza-
-tion, 2022 1st International Conference on Automated Machine Learning
+- **F. Pfisterer\***, L. Schneider*, J. Moosbauer, M. Binder, and B. Bischl. YAHPO Gym - Design Criteria and a new multifidelity Benchmark for Hyperparameter Optimization, 2022 1st International Conference on Automated Machine Learning
 <br>[LINK](https://arxiv.org/abs/2109.03670)<br>
 - P. Gijsbers*, **F. Pfisterer\***, J. N. van Rijn, B. Bischl, and J. Vanschoren. Meta-learning
 for symbolic hyperparameter defaults. In 2021 Genetic and Evolutionary Computa-
@@ -46,7 +45,7 @@ ACM
 
 ## Algorithmic Fairness
 
-**Abstract:** My interests in fairness are mostly of practical nature. In my opinion, models that lead to decisions about individuals are already widely deployed (e.g. in credit risk assessment, criminal justice, ...) and we need to provide practicioners with the knowledge and tools to assess models with respect to potential biases as well as avenues towards alleviating such problems. I am therefore interested in whether bias can be reliably identified in models and whether bias mitigation strategies reliably reduce biases. In the future I would like to work on the intersection of fairness and AutoML with the hope to provide practicioners with better tooling for bias assessment and mitigation.
+**Abstract:** My interests in fairness are mostly of practical nature. In my opinion, models that lead to decisions about individuals are already widely deployed (e.g. in credit risk assessment, criminal justice, ...) and we need to provide practitioners with the knowledge and tools to assess models with respect to potential biases as well as avenues towards alleviating such problems. I am therefore interested in whether bias can be reliably identified in models and whether bias mitigation strategies reliably reduce biases. In the future I would like to work on the intersection of fairness and AutoML with the hope to provide practitioners with better tooling for bias assessment and mitigation.
 
 **Selected Publication(s):** 
 - A. Agrawal, **F. Pfisterer**, B. Bischl, J. Chen, S. Sood, S. Shah, F. Buet-Golfouse, B. A. Mateen, and S. Vollmer. Debiasing classifiers: is reality at variance with expectation? 2020
@@ -62,7 +61,7 @@ mlr3fairness
 ## Benchmarking
 
 **Abstract:** With the increasing amount of publications proposing new methods, it is often hard to discern methodological advances in the general field from methods that only work in limited, small domains. Benchmarks can provide an unbiased view on this progress and allow readers to select methods that robustly work across several settings.
-This is especially important for practicioners that lack time and knowledge to implement a variety of methods or to prevent bloating the amount of methods implemented in AutoML tools.
+This is especially important for practitioners that lack time and knowledge to implement a variety of methods or to prevent bloating the amount of methods implemented in AutoML tools.
 
 **Selected Publication(s):** 
 - **F. Pfisterer**, C. Harbron, G. Jansen, and T. Xu. Evaluating domain generalization
