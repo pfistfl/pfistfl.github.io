@@ -102,7 +102,7 @@ enableEmoji = true
       url       = "https://scholar.google.de/citations?user=GLgMzvEAAAAJ&hl=en"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
+      icon_pack = "fab"
       url       = "http://orcid.org/0000-0001-8867-762X"
   [[params.social]]
       icon      = "researchgates" # icon name without the 'fa-'
