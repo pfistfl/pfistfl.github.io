@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am currently finishing my PhD in Statistics at LMU Munich advised by Prof. Bernd Bischl expecting to graduate in the fall of 2022.
+I have recently finished a PhD in Statistics at LMU Munich advised by Prof. Bernd Bischl.
 
 The goal of my research is to facilitate access to machine learning methods to a broader audience including domain experts and citizen data scientists. I hope to contribute to this goal via my [research](/research/) in machine learning, AutoML, algorithmic fairness and benchmarking. I also enjoy developing and contributing to Open Source [software](/software/) mainly in R.
 
