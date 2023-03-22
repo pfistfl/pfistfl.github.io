@@ -3,7 +3,7 @@ description: Data protection information.
 draft: false
 layout: standard
 show_title_as_headline: true
-title: License
+title: data_protection
 ---
 
 Privacy Policy

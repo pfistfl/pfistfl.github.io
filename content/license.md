@@ -1,6 +1,5 @@
 ---
-description: The "kitchen sink," if you will ... a page showing examples of type and
-  page elements included in this template.
+description: License information for website content.
 draft: false
 layout: standard
 show_title_as_headline: true
