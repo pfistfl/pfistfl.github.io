@@ -1,13 +1,13 @@
 ---
-description: The "kitchen sink," if you will ... a page showing examples of type and
-  page elements included in this template.
+description: Imprint of the website.
 draft: false
 layout: standard
 show_title_as_headline: true
 title: Imprint
 ---
 
-According to §5 TMG and §18 MStV, only online services provided on a commercial basis require identification of the provider. As this website is used solely for private purposes, exemption from the obligation to provide an imprint applies.
+This website is used solely for private purposes, exemption from the obligation to provide an imprint applies.
+According to §5 TMG and §18 MStV, only online services provided on a commercial basis require identification of the provider.
 
 Name / Responsible for the content:
 

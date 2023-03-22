@@ -3,11 +3,8 @@ description: Data protection information.
 draft: false
 layout: standard
 show_title_as_headline: true
-title: data_protection
+title: "Data Protection"
 ---
-
-Privacy Policy
-
 This Privacy Policy sets out how this website ("we," "us," or "our") handles your personal information.
 We are committed to protecting your privacy and keeping your personal information safe.
 

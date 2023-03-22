@@ -130,6 +130,7 @@ enableEmoji = true
   #  title = "Blog"
   #  url = "/blog/"
   # weight = 2
+  
   [[menu.header]]
     name = "Research"
     title = "Research"
@@ -160,7 +161,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Data Protection"
     title = "Data Protection"
-    url = "data_protetction"
+    url = "/data_protection/"
     weight = 1
     
 # see https://gohugo.io/about/hugo-and-gdpr/    

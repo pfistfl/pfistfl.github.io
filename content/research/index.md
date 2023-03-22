@@ -48,7 +48,10 @@ ACM
 **Abstract:** My interests in fairness are mostly of practical nature. In my opinion, models that lead to decisions about individuals are already widely deployed (e.g. in credit risk assessment, criminal justice, ...) and we need to provide practitioners with the knowledge and tools to assess models with respect to potential biases as well as avenues towards alleviating such problems. I am therefore interested in whether bias can be reliably identified in models and whether bias mitigation strategies reliably reduce biases. In the future I would like to work on the intersection of fairness and AutoML with the hope to provide practitioners with better tooling for bias assessment and mitigation.
 
 **Selected Publication(s):** 
-- A. Agrawal, **F. Pfisterer**, B. Bischl, J. Chen, S. Sood, S. Shah, F. Buet-Golfouse, B. A. Mateen, and S. Vollmer. Debiasing classifiers: is reality at variance with expectation? 2020
+- H. Weerts*, **F. Pfisterer\***, Matthias Feurer, Katharina Eggensperger, Edward Bergman, Noor Awad, Joaquin Vanschoren, Mykola Pechenizkiy, Bernd Bischl, Frank Hutter. 
+Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML 2023.
+<br>[LINK](https://arxiv.org/abs/2303.08485)<br>
+- A. Agrawal, **F. Pfisterer**, B. Bischl, J. Chen, S. Sood, S. Shah, F. Buet-Golfouse, B. A. Mateen, and S. Vollmer. Debiasing classifiers: is reality at variance with expectation? 2020.
 <br>[LINK](https://arxiv.org/abs/2011.02407)<br>
 - S. Dandl*, **F. Pfisterer\***, and B. Bischl. Multi-objective counterfactual fairness. In 2022 Genetic and Evolutionary Computation Conference Companion
 (GECCO ’22 Companion), Lile, France, 2022. ACM
