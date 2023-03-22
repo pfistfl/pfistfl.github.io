@@ -8,7 +8,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Statistician, ML Researcher, PhD Student Statistics @ LMU Munich, Germany
+subtitle: Statistician, ML Researcher, PhD Statistics
 text_align_left: false
 title: Florian Pfisterer
 type: home
