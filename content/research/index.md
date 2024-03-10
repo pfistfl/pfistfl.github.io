@@ -6,16 +6,16 @@
 
 # Research Interests (Future)
 
-In the future, I would like to explore several direction at the intersection of Algorithmic Fairness and AutoML. If you are interested in collaborating, get in [contact](/contact)!
+In the future, I would like to explore several direction at the intersection of Algorithmic Fairness and AutoML.
+If you are interested in collaborating, get in [contact](/contact)!
 
-I have written out a few areas I'd like to conduct research on in the future below.
+There are several areas I'd like to do research on in the future:
 
-* Interactive AutoML systems that guide users to fair models
-* Fairness-aware AutoML systems
-* Causality- & Fairness-aware AutoML
-* Neural-Network based AutoML systems for tabular data.
+* L(L)M's / Foundation models for data beyond text and image
+* Interactive and Fairness-aware AutoML systems
+* Causality- & fairness-aware AutoML
 * Integrating AutoML and Causality
-* Better and more realistic benchmarks for asynchronous & noisy HPO/NAS.
+* Better and more realistic benchmarks for asynchronous & noisy HPO/NAS
 
 
 # Previous Work
@@ -31,7 +31,7 @@ This website only shows a selected subset of my work, please refer to my [google
 **Abstract:** My interests in AutoML are mainly in meta-learning and hyperparameter optimization (HPO). The goal there is to improve existing HPO optimizers or to figure out if (and how) we can use results from previous experiments to jumpstart optimization on a new dataset. I am similarly interested in developing AutoML beyond its current scope, e.g. by extending AutoML systems towards optimizing multiple criteria such as *fairness* or *interpretability*.
 
 **Selected Publication(s):**
-- **F. Pfisterer\***, L. Schneider*, J. Moosbauer, M. Binder, and B. Bischl. YAHPO Gym - Design Criteria and a new multifidelity Benchmark for Hyperparameter Optimization, 2022 1st International Conference on Automated Machine Learning
+- **F. Pfisterer\***, L. Schneider*, J. Moosbauer, M. Binder, and B. Bischl. YAHPO Gym - Design Criteria and a new multifidelity Benchmark for Hyperparameter Optimization, 2022 1st International Conference on Automated Machine Learning.
 <br>[LINK](https://arxiv.org/abs/2109.03670)<br>
 - P. Gijsbers*, **F. Pfisterer\***, J. N. van Rijn, B. Bischl, and J. Vanschoren. Meta-learning
 for symbolic hyperparameter defaults. In 2021 Genetic and Evolutionary Computa-
@@ -49,7 +49,8 @@ ACM
 
 **Selected Publication(s):** 
 - H. Weerts*, **F. Pfisterer\***, Matthias Feurer, Katharina Eggensperger, Edward Bergman, Noor Awad, Joaquin Vanschoren, Mykola Pechenizkiy, Bernd Bischl, Frank Hutter. 
-Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML 2023.
+Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML,
+In Journal of Artificial Intelligence Research 79 (2024): 639-677.
 <br>[LINK](https://arxiv.org/abs/2303.08485)<br>
 - A. Agrawal, **F. Pfisterer**, B. Bischl, J. Chen, S. Sood, S. Shah, F. Buet-Golfouse, B. A. Mateen, and S. Vollmer. Debiasing classifiers: is reality at variance with expectation? 2020.
 <br>[LINK](https://arxiv.org/abs/2011.02407)<br>

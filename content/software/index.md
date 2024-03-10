@@ -1,4 +1,4 @@
-I enjoy developing Open Source software and currently do so mostly in R.<br>
+I enjoy developing Open Source software and currently do so mostly in R and Python.<br>
 During my PhD, I have (co-)developed several extensions for the [mlr3](https://github.com/mlr-org/mlr3) ecosystem and contributed to several others. 
 
 # mlr3
@@ -14,10 +14,12 @@ During my PhD, I have (co-)developed several extensions for the [mlr3](https://g
 - [mlr3torch](https://github.com/mlr-org/mlr3torch/): Deep Learning with **torch** and **mlr3**.<br>
   I help developing mlr3torch mainly in a supervisory capacity.
 
-
-
 # R
 
+- [mlr3pipelines](https://github.com/mlr-org/mlr3pipelines/) 
+  Machine learning pipelines for **mlr3**.
+- [mlr3fairness](https://github.com/mlr-org/mlr3fairness/) 
+  Auditing, visualization and bias mitigation for learners from **mlr3**.
 - [Deepregression](https://github.com/neural-structured-additive-learning/deepregression): Fitting Semi-Structured Deep Distributional Regression in R
 - [mcboost](https://github.com/mlr-org/mcboost/): Multi-calibration and multi-accuracy boosting.<br>
     **F. Pfisterer**, C. Kern, S. Dandl, M. Sun, M. P. Kim, and B. Bischl. mcboost: Multi-
@@ -31,7 +33,7 @@ During my PhD, I have (co-)developed several extensions for the [mlr3](https://g
 
 - [YAHPO Gym](https://github.com/slds-lmu/yahpo_gym):
   A multi-objective multi-fidelity benchmark for HPO optimizers.
-  For this paper, I developed software to interface surrogates and a tiny AutoML system that allows fitting surrogate models for use with YAHPO Gym called yahpo_train.
+  For this paper, I developed software to interface surrogates and a tiny AutoML system that allows fitting surrogate models for use with YAHPO Gym called `yahpo_train`.
 
 
 # Web

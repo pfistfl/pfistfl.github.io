@@ -1,8 +1,6 @@
 # Contact
 
-I am currently finishing my PhD at the Institute for Statistics at LMU Munich.
-The best way to contact me is via email at **florian.pfisterer[at]stat.uni-muenchen.de**.
-
+The best way to contact me is via email at **pfistfl.dev@googlemail.com**.
 I am also part of several Slack/Mattermost channels:
 
 * [mlr-org Mattermost](https://lmmisld-lmu-stats-slds.srv.mwn.de/mlr_invite/)
