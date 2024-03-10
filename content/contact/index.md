@@ -1,6 +1,6 @@
 # Contact
 
-The best way to contact me is via email at **pfistfl.dev@googlemail.com**.
+The best way to contact me is via email at **pfistererf+dev@gmail.com**.
 I am also part of several Slack/Mattermost channels:
 
 * [mlr-org Mattermost](https://lmmisld-lmu-stats-slds.srv.mwn.de/mlr_invite/)
