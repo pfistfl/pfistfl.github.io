@@ -2,99 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/spoonful-series/01-spoonful/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/about/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/spoonful-series/02-spoonful/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/spoonful-series/03-spoonful/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/contact/</loc>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/research/</loc>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/software/</loc>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/categories/</loc>
   </url><url>
-    <loc>/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/data_protection/</loc>
   </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/imprint/</loc>
   </url><url>
-    <loc>/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/license/</loc>
   </url><url>
-    <loc>/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/blog/</loc>
   </url><url>
-    <loc>/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>//localhost:49875/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/a-spoonful-of-hugo/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/spoonful-series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/css-grid-scaffold/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/built-in-contact-form/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/elements/</loc>
-    <lastmod>2019-02-18T12:27:33-06:00</lastmod>
-  </url><url>
-    <loc>/research/main/</loc>
-  </url><url>
-    <loc>/about/</loc>
-  </url><url>
-    <loc>/license/</loc>
-  </url><url>
-    <loc>/research/</loc>
+    <loc>//localhost:49875/tags/</loc>
   </url>
 </urlset>

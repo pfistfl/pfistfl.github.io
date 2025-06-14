@@ -9,9 +9,6 @@ description:
     My research focuses on AutoML, Algorithmic Fairness and Benchmarking. 
     My current interests lie in practical aspects of algorithmic fairness and how practitioners can be enabled to develop more equitable algorithms.
     I also develop Open Source software,  either in Python or for the [mlr3](https://github.com/mlr-org/mlr3) ecosystem in R.
-image_left: true
-images:
-- img/revoir.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Statistician, ML Researcher, PhD Statistics

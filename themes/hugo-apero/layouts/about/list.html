@@ -24,7 +24,7 @@
         <!--begin main content column: 2/3-->
         {{ $main := printf "/%s/%s" .Section "main/index.md" }}
         {{ with site.GetPage $main }}
-        <div class="order-2 {{ if $page.Params.sidebar_left }}ml5-l order-2-l{{ else }}mr4-l order-1-l{{ end }} w-two-thirds-l w-100-ns pt5">
+        <div class="order-2 {{ if $page.Params.sidebar_left }}ml5-l order-2-l{{ else }}mr4-l order-1-l{{ end }} w-two-thirds-l w-100-ns pt5 card fade-in">
           {{ if $page.Params.show_header }}
             {{ with .Title}}
               <h2 class="about-main f2 fw7 tl">{{ . | markdownify }}</h2>

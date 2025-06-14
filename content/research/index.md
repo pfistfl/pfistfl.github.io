@@ -1,26 +1,22 @@
-
-
-
-
-
-
 # Research Interests (Future)
 
-In the future, I would like to explore several direction at the intersection of Algorithmic Fairness and AutoML.
-If you are interested in collaborating, get in [contact](/contact)!
+Looking ahead, I want to explore systems that sit at the intersection of fairness, automation, and high-stakes decision-making. If you're working on adjacent topics and want to collaborate, get in [contact](/contact)!
 
-There are several areas I'd like to do research on in the future:
+There are several areas I'm keen on diving deeper into in the future:
 
-* L(L)M's / Foundation models for data beyond text and image
-* Interactive and Fairness-aware AutoML systems
+* L(L)M's / Foundation models for data beyond text and image, especially on medical data (e.g. cytometry)
+* LLM's as interactive agents for AutoML, model auditing, and decision support
+* Interactive/Human in the Loop and Fairness-aware AutoML systems
 * Causality- & fairness-aware AutoML
 * Integrating AutoML and Causality
 * Better and more realistic benchmarks for asynchronous & noisy HPO/NAS
 
 
+I’m especially interested in where things break—when models drift, benchmarks mislead, or optimization leads to unintended incentives. 
+
 # Previous Work
 
-Throughout my PhD I conducted research on several topics with the overarching goal to robustify, simplify and improve machine learning for non-expert users.
+Throughout my PhD I researched several topics with the overarching goal to robustify, simplify and improve machine learning for non-expert users.
 This website only shows a selected subset of my work, please refer to my [google scholar](https://scholar.google.de/citations?user=GLgMzvEAAAAJ&hl=en) profile for an up-to-date and more comprehensive overview.
 
 {{< figure src="overview.png" alt="Overview of research interests">}}

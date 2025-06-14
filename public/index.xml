@@ -2,197 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Pfisterer</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Florian Pfisterer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A first post</title>
-      <link>/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
-      <title>Set up your social</title>
-      <link>/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
-site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
-    </item>
-    
-    <item>
-      <title>Style your site colors</title>
-      <link>/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
-    </item>
-    
-    <item>
-      <title>Style your site typography</title>
-      <link>/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
-    </item>
-    
-    <item>
-      <title>An evergreen post</title>
-      <link>/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
-    </item>
-    
-    <item>
-      <title>Using panelsets</title>
-      <link>/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
-Goodbye 💨 goodbye
-Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:
-Question Which came first: the 🐔 or the 🥚?</description>
-    </item>
-    
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
-    </item>
-    
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>/elements/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      
-      <guid>/elements/</guid>
-      <description>Font Sizes A A A A A A A A 6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/research/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/main/</guid>
-      <description>Research Interests (Future) In the future, I would like to explore several direction at the intersection of Algorithmic Fairness and AutoML. If you are interested in collaborating, get in contact!
-Previous Work Throughout my PhD I conducted research on several topics with the overarching goal to robustify, simplify and improve machine learning for non-expert users. This website only shows a selected subset of my work, please refer to my google scholar profile for an up-to-date and more comprehensive overview.</description>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;div class=&#34;card fade-in&#34;&gt;&#xA;  &lt;section id=&#34;about&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h1 id=&#34;about&#34;&gt;About&#xA;  &lt;a href=&#34;#about&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;!-- Fun fact: Florian always wears blue trousers with blue shirts on saturdays --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a statistician turned AI / ML engineer, working at the edge of AI and clinical diagnostics. I currently run the ML efforts at &#xA;&lt;a href=&#34;https://hema.to&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hema.to&lt;/a&gt;, where we&amp;rsquo;re building decision support tools for blood cancer diagnosis. I enjoy the high-stakes, high-paced work &amp;ndash; exactly the kind of environment where loose thinking breaks things.&lt;/p&gt;&#xA;&lt;p&gt;Before that, I did my PhD in Statistics at LMU Munich with Prof. Bernd Bischl, focusing on AutoML, fairness, and benchmarking. The goal of my research is to make ML both more automated and more accountable.&#xA;I also contribute to open source (mostly in Python and R/mlr3) and occasionally take on consulting projects when the problem is weird, hard, or unusually important.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&#xA;  &lt;a href=&#34;#contact&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The best way to contact me is via email at &lt;strong&gt;&#xA;&lt;a href=&#34;mailto:pfistererf&amp;#43;dev@gmail.com&#34;&gt;pfistererf+dev@gmail.com&lt;/a&gt;&lt;/strong&gt;.&#xA;I am also part of several Slack/Mattermost channels:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://lmmisld-lmu-stats-slds.srv.mwn.de/mlr_invite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlr-org Mattermost&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://join.slack.com/t/julialang/shared_invite/zt-1ab2rnvlw-mfODD9DJC_apVEULyKXDrA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Language Slack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://openml.slack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenML Slack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>&lt;h1 id=&#34;research-interests-future&#34;&gt;Research Interests (Future)&#xA;  &lt;a href=&#34;#research-interests-future&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Looking ahead, I want to explore systems that sit at the intersection of fairness, automation, and high-stakes decision-making. If you&amp;rsquo;re working on adjacent topics and want to collaborate, get in &#xA;&lt;a href=&#34;//localhost:1313/contact&#34;&gt;contact&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;There are several areas I&amp;rsquo;m keen on diving deeper into in the future:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;L(L)M&amp;rsquo;s / Foundation models for data beyond text and image, especially on medical data (e.g. cytometry)&lt;/li&gt;&#xA;&lt;li&gt;LLM&amp;rsquo;s as interactive agents for AutoML, model auditing, and decision support&lt;/li&gt;&#xA;&lt;li&gt;Interactive/Human in the Loop and Fairness-aware AutoML systems&lt;/li&gt;&#xA;&lt;li&gt;Causality- &amp;amp; fairness-aware AutoML&lt;/li&gt;&#xA;&lt;li&gt;Integrating AutoML and Causality&lt;/li&gt;&#xA;&lt;li&gt;Better and more realistic benchmarks for asynchronous &amp;amp; noisy HPO/NAS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I’m especially interested in where things break—when models drift, benchmarks mislead, or optimization leads to unintended incentives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/software/</guid>
+      <description>&lt;h1 id=&#34;software-development&#34;&gt;Software Development&#xA;  &lt;a href=&#34;#software-development&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I enjoy developing Open Source software and currently do so mostly in R and Python.&lt;br&gt;&#xA;During my PhD, I have (co-)developed several extensions for the &#xA;&lt;a href=&#34;https://github.com/mlr-org/mlr3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlr3&lt;/a&gt; ecosystem and contributed to several others.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h1 id=&#34;mlr3&#34;&gt;mlr3&#xA;  &lt;a href=&#34;#mlr3&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://github.com/mlr-org/mlr3pipelines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlr3pipelines&lt;/a&gt;: Machine learning pipelines for &lt;strong&gt;mlr3&lt;/strong&gt;.&lt;br&gt;&#xA;M. Binder, &lt;strong&gt;F. Pfisterer&lt;/strong&gt;, M. Lang, L. Schneider, L. Kotthoff, and B. Bischl. mlr3pipelines - flexible machine learning pipelines in R. Journal of Machine Learning Research, 22(184):1–7, 2021&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://github.com/mlr-org/mlr3fairness/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mlr3fairness&lt;/a&gt;: Bias Audits for &lt;strong&gt;mlr3&lt;/strong&gt;.&lt;br&gt;&#xA;&lt;strong&gt;F. Pfisterer&lt;/strong&gt;, S. Wei, S. Vollmer M. Lang and B. Bischl. Fairness Audits And Debiasing Using&#xA;mlr3fairness&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Protection</title>
+      <link>//localhost:1313/data_protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/data_protection/</guid>
+      <description>&lt;p&gt;This Privacy Policy sets out how this website (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) handles your personal information.&#xA;We are committed to protecting your privacy and keeping your personal information safe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Collection&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We do not collect any personal information from our visitors.&#xA;We do not use any third-party scripts or services that may collect personal information.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Cookies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We do not use cookies on our website.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Information&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since we do not collect any personal information, we do not use any information for any purpose.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Imprint</title>
+      <link>//localhost:1313/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/imprint/</guid>
+      <description>&lt;p&gt;This website is used solely for private purposes, exemption from the obligation to provide an imprint applies.&#xA;According to §5 TMG and §18 MStV, only online services provided on a commercial basis require identification of the provider.&lt;/p&gt;&#xA;&lt;p&gt;Name / Responsible for the content:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Florian Pfisterer&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Munich, Germany&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; pfistererf[at]googlemail.com&lt;/p&gt;</description>
+    </item>
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>//localhost:1313/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/license/</guid>
-      <description>If not indicated differently, my blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+      <guid>//localhost:1313/license/</guid>
+      <description>&lt;p&gt;If not indicated differently, contents of this website are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
     </item>
-    
   </channel>
 </rss>

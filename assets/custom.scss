@@ -1,0 +1,325 @@
+// Custom theme overrides
+:root {
+  --primary-color: #2B6CB0;
+  --secondary-color: #4A5568;
+  --accent-color: #4299E1;
+  --background-color: #FFFFFF;
+  --text-color: #2D3748;
+  --text-light: #718096;
+  --border-color: #E2E8F0;
+  --space-xs: 0.5rem;   // 8px
+  --space-sm: 1rem;     // 16px
+  --space-md: 1.5rem;   // 24px
+  --space-lg: 2rem;     // 32px
+  --space-xl: 3rem;     // 48px
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-heading: 'Playfair Display', serif;
+  --body-size: 1rem; // 16px
+  --heading-weight: 600;
+  --body-weight: 400;
+  --body-weight-light: 300;
+  --body-weight-medium: 500;
+  --background-color-dark: #181a1b;
+  --text-color-dark: #f5f5f7;
+  --card-bg-dark: #23272a;
+  --primary-color-dark: #7dd3fc;
+  --accent-color-dark: #fbbf24;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  font-weight: var(--body-weight);
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+body.dark {
+  background: var(--background-color-dark);
+  color: var(--text-color-dark);
+}
+
+body.dark .card {
+  background: var(--card-bg-dark);
+}
+
+body.dark .site-header, body.dark .site-footer {
+  background: var(--card-bg-dark);
+  color: var(--text-color-dark);
+}
+
+.site-header {
+  background-color: white;
+  border-bottom: 1px solid var(--border-color);
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+  margin-bottom: 0 !important;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.site-footer {
+  background-color: white;
+  border-top: 1px solid var(--border-color);
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+// Main content area
+.page-main {
+  padding-top: 0 !important;
+  padding-bottom: 1rem !important;
+  margin-top: 0 !important;
+}
+
+// Adjust spacing for the main post body content
+.post-body {
+  padding-top: 0 !important;
+
+  > *:first-child {
+    margin-top: 0 !important;
+  }
+
+  // Styling for general text within the post body
+  p, ul, ol, blockquote {
+    font-size: 1rem;
+    font-weight: var(--body-weight);
+    margin-top: 0;
+    margin-bottom: var(--space-sm);
+    line-height: 1.7;
+  }
+
+  li {
+    margin-bottom: 0.6rem;
+  }
+}
+
+// Secondary text style
+.secondary-text {
+  color: var(--text-light) !important;
+  font-size: 0.95rem !important;
+  font-weight: var(--body-weight-light) !important;
+  line-height: 1.6 !important;
+  margin-bottom: var(--space-sm) !important;
+}
+
+// Improve social icons appearance
+.social-icon-links {
+  .link {
+    opacity: 1;
+    transition: opacity 0.2s ease;
+    color: var(--primary-color);
+    
+    &:hover {
+      opacity: 0.8;
+      color: var(--primary-color);
+    }
+
+    i {
+      font-size: 1.5em;
+      vertical-align: middle;
+    }
+  }
+}
+
+// Improve navigation links
+.site-links {
+  .link {
+    position: relative;
+    
+    &:after {
+      content: '';
+      position: absolute;
+      width: 0;
+      height: 2px;
+      bottom: 0;
+      left: 50%;
+      background-color: var(--primary-color);
+      transition: all 0.3s ease;
+    }
+    
+    &:hover:after {
+      width: 100%;
+      left: 0;
+    }
+  }
+}
+
+// Custom styles for site title
+.site-header .site-brand a,
+.site-header .site-brand a:visited {
+  color: #4a4a4a !important;
+  text-decoration: none !important;
+  position: relative;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: #2a2a2a !important;
+  }
+  
+  span {
+    position: relative;
+    display: inline-block;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      bottom: -2px;
+      left: 0;
+      background-color: currentColor;
+      transform: scaleX(0);
+      transform-origin: bottom right;
+      transition: transform 0.3s ease-out;
+    }
+  }
+  
+  &:hover span::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+}
+
+// 2. Tighter Vertical Rhythm
+h1, h2, h3, h4, h5, h6 {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-md);
+  font-family: var(--font-heading);
+  font-weight: var(--heading-weight);
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  margin-top: calc(var(--space-xl) / 2);
+  margin-bottom: calc(var(--space-lg) / 2);
+  font-size: 2rem;
+  font-weight: 700;
+}
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+h4, h5, h6 {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+section {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+// 3. Card-Style Layout
+.card {
+  background: var(--background-color); /* Soften background, remove gradient */
+  border-radius: 0.75rem; /* Slightly smaller border-radius */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.03); /* Lighter shadow */
+  border: 1px solid var(--border-color); /* Thinner border */
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+  transition: box-shadow 0.2s, transform 0.2s;
+  position: relative;
+  overflow: hidden;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px; /* Thinner stripe */
+    height: 100%;
+    background: linear-gradient(to bottom, var(--primary-color), var(--accent-color));
+    border-radius: 0.75rem 0 0 0.75rem;
+    opacity: 0.3; /* Softer stripe */
+  }
+}
+
+.card:hover, .card:focus-within {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08), 0 2px 4px rgba(0,0,0,0.05); /* Softer hover shadow */
+  transform: translateY(-1px) scale(1.005); /* Less aggressive hover effect */
+}
+
+// 5. Sticky Sidebar
+.page-sidebar, .about-sidebar {
+  position: sticky;
+  top: 6rem; // Adjust as needed for header height
+  z-index: 900;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+em, i {
+  font-weight: var(--body-weight-medium);
+}
+
+// Smooth scrolling for anchor links
+html {
+  scroll-behavior: smooth;
+}
+
+// Nav link microinteractions
+// .site-links .link, .site-header .site-brand a {
+//   transition: color 0.2s, transform 0.2s, opacity 0.2s;
+//   &:hover, &:focus {
+//     color: var(--primary-color);
+//     transform: scale(1.06);
+//     opacity: 0.85;
+//     outline: none;
+//   }
+//   &:focus {
+//     box-shadow: 0 0 0 2px var(--primary-color);
+//   }
+// }
+
+// External link icon microinteraction
+.social-icon-links .link {
+  transition: color 0.2s, transform 0.2s, opacity 0.2s;
+  &:hover, &:focus {
+    color: var(--accent-color);
+    transform: scale(1.12);
+    opacity: 1;
+  }
+}
+
+.fab {
+  font-size: 3.5em;
+  color: #1a1a77;
+}
+
+.fas {
+  font-size: 3.5em;
+  color: #1a1a77;
+}
+
+// // Fade-in animation
+// .fade-in {
+//   opacity: 0;
+//   transform: translateY(24px);
+//   transition: opacity 0.7s cubic-bezier(.4,0,.2,1), transform 0.7s cubic-bezier(.4,0,.2,1);
+// }
+// .fade-in.visible {
+//   opacity: 1;
+//   transform: none;
+// }
+
+// Focus styles for accessibility
+:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+.mb4 {
+  margin-bottom: 0 !important;
+}
+
+main {
+  padding-top: 0.5rem !important;
+}
