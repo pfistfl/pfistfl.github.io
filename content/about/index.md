@@ -6,7 +6,7 @@ draft: false
 {{< card >}}
 <section id="about">
 
-# About
+# <i class="fas fa-user"></i> About
 
 <!-- Fun fact: Florian always wears blue trousers with blue shirts on saturdays -->
 
@@ -52,7 +52,7 @@ One aspect I find highly fascinating is the intersection of humans and algorithm
 
 Throughout my studies I worked part time at several companies such as [Telefónica Germany](https://www.telefonica.de/) where I worked on automated quality control for data bases, risk scoring and text analytics. During my master's thesis at the [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) I worked on a method for anomaly detection in time-series data. Before finishing my degree, I interned at [Telefónica Alpha](https://www.telefonicaalpha.com/) in Barcelona working on a moonshot project related to mental health and personal wellbeing. During my PhD I interned with [Roche Pharma](https://www.roche.com/) in personalised healthcare working on domain generalization for clinical survival models.
 
-During my PhD i furthermore freelanced in several capacities, e.g. giving [programming, machine learning / deep learning|](https://www.essentialds.de/) courses at several DAX companies but also applied machine learning/computer vision projects .</span>
+During my PhD i furthermore freelanced in several capacities, e.g. giving [programming, machine learning / deep learning|](https://www.essentialds.de/) #courses at several DAX companies but also applied machine learning/computer vision projects .</span>
 
 I'm open to collaboration around high-stakes AI systems.
 Feel free to reach out if you want to discuss AI for cytometry, foundation models in the bio-med field or building software in the clinical space and other topics!
