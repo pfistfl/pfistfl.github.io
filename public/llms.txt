@@ -1,0 +1,20 @@
+# Florian Pfisterer's Personal & Research Website
+
+> Personal website and research portfolio of Florian Pfisterer, statistician and AI/ML engineer. This site features research interests, selected publications, open-source software projects, and professional background.
+>
+> **Fun fact:** Florian always wears blue trousers with blue shirts on Saturdays.
+>
+> **P.S.:** You should hire me! :)
+
+This site is built with Hugo and the Apero theme. It is intended for sharing research, software, and professional information, and for facilitating collaboration and contact.
+
+## Main Sections
+- [About](/about): Professional background, experience, and teaching activities
+- [Research](/research): Research interests, selected publications, and academic work
+- [Software](/software): Open-source projects and software contributions
+- [Contact](/contact): How to get in touch
+
+## Optional
+- [Data Protection](/data_protection): Privacy policy and data protection information
+- [Imprint](/imprint): Legal notice
+- [License](/license): Content licensing information 

@@ -10,10 +10,13 @@ draft: false
 
 <!-- Fun fact: Florian always wears blue trousers with blue shirts on saturdays -->
 
-I'm a statistician turned AI / ML engineer, working at the edge of AI and clinical diagnostics. I currently run the ML efforts at [hema.to](https://hema.to), where we're building decision support tools for blood cancer diagnosis. I enjoy the high-stakes, high-paced work -- exactly the kind of environment where loose thinking breaks things.
+I'm a statistician and AI/ML engineer, currently leading ML at [hema.to](https://hema.to). My work focuses on AI for clinical diagnostics, with a passion for robust, fair, and accountable machine learning.
 
-Before that, I did my PhD in Statistics at LMU Munich with Prof. Bernd Bischl, focusing on AutoML, fairness, and benchmarking. The goal of my research is to make ML both more automated and more accountable.
-I also contribute to open source (mostly in Python and R/mlr3) and occasionally take on consulting projects when the problem is weird, hard, or unusually important.
+**Key interests:** Foundation models in medicine, fairness, and real-world AI deployment.
+
+[More about my research →](/research) | [See my open-source projects →](/software)
+
+Feel free to reach out via the [contact page](/contact).
 
 ### <i class="fas fa-lightbulb"></i> What I care about
 
@@ -48,7 +51,7 @@ One aspect I find highly fascinating is the intersection of humans and algorithm
 
 ### <i class="fas fa-graduation-cap"></i> Background 
 
-<span class="secondary-text">Prior to starting my PhD I completed a B.Sc. as well as a M.Sc. in Statistics at [LMU Munich](https://www.lmu.de/en/) with two exchanges at [Universidad Complutense de Madrid](https://www.ucm.es/) and [Universitat Politècnica de Catalunya](https://www.upc.edu/en) (Barcelona).
+Prior to starting my PhD I completed a B.Sc. as well as a M.Sc. in Statistics at [LMU Munich](https://www.lmu.de/en/) with two exchanges at [Universidad Complutense de Madrid](https://www.ucm.es/) and [Universitat Politècnica de Catalunya](https://www.upc.edu/en) (Barcelona).
 
 Throughout my studies I worked part time at several companies such as [Telefónica Germany](https://www.telefonica.de/) where I worked on automated quality control for data bases, risk scoring and text analytics. During my master's thesis at the [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) I worked on a method for anomaly detection in time-series data. Before finishing my degree, I interned at [Telefónica Alpha](https://www.telefonicaalpha.com/) in Barcelona working on a moonshot project related to mental health and personal wellbeing. During my PhD I interned with [Roche Pharma](https://www.roche.com/) in personalised healthcare working on domain generalization for clinical survival models.
 
